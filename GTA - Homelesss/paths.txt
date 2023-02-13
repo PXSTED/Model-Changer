@@ -1,7 +1,0 @@
-materials\models\player\custom_player\eminem\gta_sa\swmotr5\swmotr5.vmt
-materials\models\player\custom_player\eminem\gta_sa\swmotr5\swmotr5.vtf
-
-models\player\custom_player\eminem\gta_sa\swmotr5.dx90.vtx
-models\player\custom_player\eminem\gta_sa\swmotr5.mdl
-models\player\custom_player\eminem\gta_sa\swmotr5.phy
-models\player\custom_player\eminem\gta_sa\swmotr5.vvd
